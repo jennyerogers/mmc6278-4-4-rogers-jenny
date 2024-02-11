@@ -16,6 +16,7 @@ For this assignment, you'll be learning how to design a MySQL database and how t
 
 Copy the starter files inside of `unsolved` into the root directory of your GitHub repository.
 
+
 Ensure you include a `.gitignore` file in your repo that includes at minimum:
 
 ```
